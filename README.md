@@ -12,6 +12,11 @@ In this course, I hope the learn more about the effective methods of communicati
 ## Assignment 1
 
 ## Assignment 2 - Visualizing Government Debt
+### Organization for Economic Co-operation and Development (OECD)
 <iframe src="https://data.oecd.org/chart/6Ogp" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ogp" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+#### Citation
+### Flourish 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11154504"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+#### Citation
 
 ## Final Project
