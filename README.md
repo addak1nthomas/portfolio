@@ -19,11 +19,10 @@ In this course, I hope the learn more about the effective methods of communicati
 <div class="flourish-embed flourish-chart" data-src="visualisation/11154504"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 #### OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 11 September 2022)
 ### Flourish Pt. 2
-<div class="flourish-embed flourish-chart" data-src="visualisation/11154504"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-chart" data-src="visualisation/11161279"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 #### OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 11 September 2022)
 ### Tableau Final Attempt
-<iframe
-src="https://public.tableau.com/views/Debt_GDP_Ratio/DebttoGDPRatio?:showVizHome=no&:embed=true"width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/Debt_GDP_Ratio/DebttoGDPRatio?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 #### OECD (2022), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 11 September 2022)
 
 ## Final Project
