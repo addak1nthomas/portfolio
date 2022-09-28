@@ -60,3 +60,4 @@ The next person I spoke with was a middle-aged woman. She stated that the graph 
 </script>
 For the final solution, I incorporated the feedback given during my research and the in-class feedback seesion. I went ahead and added the dollar amount of each team's salary as well as combined the 2 variables of team name and total number of wins to allow for the data to be sorted correctly in Tableau.
 ## Final Project Part 1Final_Project_AddakinThomas.md
+[## TEST](Final_Project_AddakinThomas.md)
