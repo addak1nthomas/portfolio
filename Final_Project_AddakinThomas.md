@@ -11,5 +11,5 @@ I will also include a map created in GIS that was created using Kernel Density S
 ### Call to Action
 Speak out to local representatives to advocate for mental health to become more of a priority and for a ban on assault rifles. We must fight this issue as a nation and be unified in ending the number 1 cause for pediatric deaths in the United States. 
 
-![alt text](unnamed (1).jpg)
+![alt text](vis2.jpg)
 ![alt text](unnamed.jpg)
