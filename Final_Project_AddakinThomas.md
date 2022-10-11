@@ -1,5 +1,6 @@
+### [BACK TO HOME PAGE](https://github.com/addak1nthomas/portfolio/blob/37671b00852c0404b6255d13770cef0970da2203/README.md)
+
 # Final Project Part 1: Addakin Thomas
-## [Click here to go back](README.md)
 I am planning to construct a final project that illustrates the issue of gun violence in the United States, mostly to convince my audience that this is a public health issue. I am planning on attempting to utilize pathos in my final project to appeal to the audience’s emotions as this is a very emotional issue. I will utilize visualizations to show the amount of deaths that occur on a population basis, the reasons in which a firearm was used, and other stories as well.
 
 I will be utilizing publicly accessible data from a variety of sources to tell this story. [Everytown Research](https://everytownresearch.org/report/gun-violence-in-america/) provides great data that depicts a variety of different aspects of gun violence in the United States including the intent in which people use guns. Intent is going to be a big part of my project as it will help contribute to my argument that mental health needs to be more of a priority in order to effectively diminish the negative impact that gun violence has on the United States. I am planning on pulling 2 data sources from the Center for Disease Control and Prevention [[Source 1](https://wonder.cdc.gov/controller/saved/D176/D298F965) & [Source 2](https://wonder.cdc.gov/controller/saved/D76/D262F294)]. 
