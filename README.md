@@ -9,13 +9,16 @@ In this course, I hope the learn more about the effective methods of communicati
 
 # Portfolio 
 
-## Assignment 1
-
 ## [Assignment 2 - Visualizing Government Debt](https://addak1nthomas.github.io/portfolio/assignment_2.html)
 
 ## [In-Class Exercise (September 13th)](https://addak1nthomas.github.io/portfolio/in_class_9_13.html)
 
 ## [Assignment 3 & 4: Critique by Design](https://addak1nthomas.github.io/portfolio/assignment_3and4.html)
 
-## [Final Project Part 1](https://addak1nthomas.github.io/portfolio/Final_Project_AddakinThomas.md.html)
+## [Final Project Part 1](https://addak1nthomas.github.io/portfolio/Final_Project_AddakinThomas.html)
 
+## [Final Project Part 2]()
+
+## [Final Project Part 3]()
+
+## [Final Deliverable](https://addak1nthomas.github.io/portfolio/Final_Deliverable.html)
