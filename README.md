@@ -15,7 +15,7 @@ In this course, I hope the learn more about the effective methods of communicati
 
 ## [In-Class Exercise (September 13th)](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/in_class_9_13)
 
-## [Assignment 3 & 4: Critique by Design] (https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/assignment_3and4)
+## [Assignment 3 & 4: Critique by Design](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/assignment_3and4)
 ### Step 1 & 2: Finding a Data Visualization and Initial Critique
 The orginal data visualization and data associated with it comes from https://fathom.info/salaryper/ . Specifically, I will be focusing on the year 2010. It can be seen on this page that the visualization is quite disorganized and very distracting from the message. First of all, we can see that visualization uses MLB logos to depict each baseball team along with their repsective data. While this is very innovative and cool, not everyone looking at this visualization is going to be a fan of the MLB. It is important that the visualization is going to appeal to a variety of different audiences and the logos do not make it clear which team is which. 
 
