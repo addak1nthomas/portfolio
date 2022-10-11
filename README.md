@@ -7,11 +7,11 @@ I am a second year graduate student in the MS in Healthcare Policy and Managemen
 # What I Hope to Learn
 In this course, I hope the learn more about the effective methods of communicating data via visualization to one who may be unfamiliar with the topics being depicted. I am hoping to persue a career in management consulting, so it is important I am able to communicate insights effectively.
 
-# Portfolio
+# Portfolio 
 
 ## Assignment 1
 
-## [Assignment 2 - Visualizing Government Debt](https://github.com/addak1nthomas/portfolio/blob/c95446c6a795a35b4816dfc7c9ac457de3f5885d/assignment_2)
+## [Assignment 2 - Visualizing Government Debt](assignment_2)
 
 ## [In-Class Exercise (September 13th)](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/in_class_9_13)
 
