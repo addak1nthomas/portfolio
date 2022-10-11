@@ -19,6 +19,6 @@ In this course, I hope the learn more about the effective methods of communicati
 
 ## [Final Project Part 2]()
 
-## [Final Project Part 3]()
+## [Final Project Part 3](https://addak1nthomas.github.io/portfolio/finalproject_3.html)
 
 ## [Final Deliverable](https://addak1nthomas.github.io/portfolio/Final_Deliverable.html)
