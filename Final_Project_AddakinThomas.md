@@ -1,4 +1,4 @@
-### [BACK TO HOME PAGE](https://github.com/addak1nthomas/portfolio/blob/37671b00852c0404b6255d13770cef0970da2203/README.md)
+### [BACK TO HOME PAGE](https://addak1nthomas.github.io/portfolio/)
 
 # Final Project Part 1: Addakin Thomas
 I am planning to construct a final project that illustrates the issue of gun violence in the United States, mostly to convince my audience that this is a public health issue. I am planning on attempting to utilize pathos in my final project to appeal to the audience’s emotions as this is a very emotional issue. I will utilize visualizations to show the amount of deaths that occur on a population basis, the reasons in which a firearm was used, and other stories as well.
