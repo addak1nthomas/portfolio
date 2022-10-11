@@ -1,4 +1,4 @@
-# portfolio
+# Data Visualization Portfolio
 Portfolio of academic materials from Telling Stories with Data at Carnegie Mellon University
 
 # About Me
@@ -11,11 +11,11 @@ In this course, I hope the learn more about the effective methods of communicati
 
 ## Assignment 1
 
-## [Assignment 2 - Visualizing Government Debt](assignment_2)
+## [Assignment 2 - Visualizing Government Debt](https://addak1nthomas.github.io/portfolio/assignment_2.html)
 
-## [In-Class Exercise (September 13th)](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/in_class_9_13)
+## [In-Class Exercise (September 13th)](https://addak1nthomas.github.io/portfolio/in_class_9_13.html)
 
-## [Assignment 3 & 4: Critique by Design](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/assignment_3and4)
+## [Assignment 3 & 4: Critique by Design](https://addak1nthomas.github.io/portfolio/assignment_3and4.html)
 
-## [Final Project Part 1](https://github.com/addak1nthomas/portfolio/blob/2f323aed945556cc080a25cc2ad542533a299ccc/Final_Project_AddakinThomas.md)
+## [Final Project Part 1](https://addak1nthomas.github.io/portfolio/Final_Project_AddakinThomas.md.html)
 
