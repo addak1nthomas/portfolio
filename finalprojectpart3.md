@@ -27,17 +27,17 @@ I asked the following questions:
   _What are some ways to combat the problems being addressed in this report?_
   _Do you have any other questions or comments about the content in this reprt?_
   
- ### Interviewee # 1
+ ### Interviewee 1
   - I like how the key messages are highlighted. My eyes are immediately drawn to the main point and it does not take long to understand what you are trying to convey.
   - I don't really understand what you are trying to say in the visualization with the big squares. We know that suicide and homicide make up a large portion of gun    violence. What else are you trying to convey to the audience?
   - I think that some ways to combat the issues mentioned include voting and increasing awarness of the issue of gun violence
 
-### Interviewee # 2 
+### Interviewee 2 
   - I knew the issue of gun violence was bad in the United States, but I did not know how bad as well as the racial disparities seen.
   - I don't really understand how the mental health visualization drives your story forward. Maybe it would be good to find more data to back this claim up, or consider another route.
   - I think more research should be completed to find more disparities and see if there are root causes identified.
 
-### Interviewee # 3
+### Interviewee 3
   - The story in the beginning really grabs the audience's attention.
   - I would consider placing the pie chart in the middle of the grid on the section about hate crimes.
   - I like how attention is immediately drawn to the goal of the graph by using a highlighting color.
