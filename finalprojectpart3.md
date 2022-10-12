@@ -25,9 +25,9 @@ I asked the following questions:
   _Is there anything unclear about the visualization?_
   _What message do you take away from this visualization?_
   _What are some ways to combat the problems being addressed in this report?_
-  _Do you have any other questions or comments about the content in this reprt?_
+  _Do you have any other questions or comments about the content in this report?_
   
- ### Interviewee 1
+### Interviewee 1
   - I like how the key messages are highlighted. My eyes are immediately drawn to the main point and it does not take long to understand what you are trying to convey.
   - I don't really understand what you are trying to say in the visualization with the big squares. We know that suicide and homicide make up a large portion of gun    violence. What else are you trying to convey to the audience?
   - I think that some ways to combat the issues mentioned include voting and increasing awarness of the issue of gun violence
