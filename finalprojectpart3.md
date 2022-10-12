@@ -43,7 +43,7 @@ I asked the following questions:
   - I like how attention is immediately drawn to the goal of the graph by using a highlighting color.
   - I think the disarm hate act needs to be implemented to decrease the relevance of gun violence in our society. Along with this, the minimum age should be raised and assault rifles should be banned.
 
-### Conclusion from User Research
+## Conclusion 
 Overall, the user research showed me that my visualizations are strong, but I need to touch up a few parts of my stories to help them flow a bit better. I had a section about mental health and the user research confirmed that maybe it will be difficult to tie this very important part into this specific story. For now, I think I am going to take a different approach. 
 I also used the user research to help me develop a call to action. I learned more about a key piece of legislation that I want to include as well as my other two ideas of more research and voting have been confirmed in the interview.
 
