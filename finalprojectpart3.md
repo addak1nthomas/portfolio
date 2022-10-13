@@ -47,6 +47,46 @@ I asked the following questions:
 Overall, the user research showed me that my visualizations are strong, but I need to touch up a few parts of my stories to help them flow a bit better. I had a section about mental health and the user research confirmed that maybe it will be difficult to tie this very important part into this specific story. For now, I think I am going to take a different approach. 
 I also used the user research to help me develop a call to action. I learned more about a key piece of legislation that I want to include as well as my other two ideas of more research and voting have been confirmed in the interview.
 
+## Data Visualizations
+### Causes of Pediatric Deaths
+<div class="flourish-embed flourish-chart" data-src="visualisation/11372608"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Hate Crimes Motivated by Anti-Black or African American Bias
+<div class="flourish-embed flourish-chart" data-src="visualisation/11440470"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Number of Hate Crimes Committed Against the Jewish Population (2016-2017)
+<div class="flourish-embed flourish-chart" data-src="visualisation/11440296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### Number of Hate Crimes Committed Against the LatinX Population (2016-2017)
+<div class="flourish-embed flourish-chart" data-src="visualisation/11440402"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+### % of African-American Males Age 15-34 in the United States Who are Victims of Gun Violence
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOGeStBRI&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOGeStBRI&#x2F;view?utm_content=DAFOGeStBRI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of % of African-American Males Age 15-34 in the United States</a> by Addakin Thomas
+### % of African-American Males Age 15-34 in the United States
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOGd4NLXU&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOGd4NLXU&#x2F;view?utm_content=DAFOGd4NLXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Copy of % of African-American Males Age 15-34 in the United States</a> by Addakin Thomas
+
+## Citations
+[Center for Disease Control and Prevention: Underlying Cause of Death](https://wonder.cdc.gov/controller/saved/D76/D262F294)
+[Center for Disease Control and Prevention: Provisional Mortality Statistics](https://wonder.cdc.gov/controller/saved/D176/D298F965)
+[Everytown Research Organization](https://everytownresearch.org/report/gun-violence-in-america/)
+[Brady United](https://www.bradyunited.org/fact-sheets/hate-crimes-and-gun-violence)
+[DoSomething.Org](https://www.dosomething.org/us/articles/black-lives-taken)
+[Association of American Medical Colleges](https://www.aamc.org/news-insights/crossroads-addressing-gun-violence-public-health-crisis)
+[Texas Tribune](https://www.texastribune.org/2022/05/25/uvalde-school-shooting-victims/)
+[Why.org: Tree of Life Synagogue Picture](https://whyy.org/wp-content/uploads/2018/10/AP_18304187849966.jpg)
+[TheConversation.com: School Children Picture](https://theconversation.com/5-reasons-its-safe-for-kids-to-go-back-to-school-137064)
+
+## Final Presentation/Deliverable
 <script src="https://carnegiemellon.shorthandstories.com/the-answer/embed.js"></script>
 
 <script type="text/javascript"> 
