@@ -76,15 +76,15 @@ I also used the user research to help me develop a call to action. I learned mor
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFOGd4NLXU&#x2F;view?utm_content=DAFOGd4NLXU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Copy of Copy of % of African-American Males Age 15-34 in the United States</a> by Addakin Thomas
 
 ## Citations
-[Center for Disease Control and Prevention: Underlying Cause of Death](https://wonder.cdc.gov/controller/saved/D76/D262F294)
-[Center for Disease Control and Prevention: Provisional Mortality Statistics](https://wonder.cdc.gov/controller/saved/D176/D298F965)
-[Everytown Research Organization](https://everytownresearch.org/report/gun-violence-in-america/)
-[Brady United](https://www.bradyunited.org/fact-sheets/hate-crimes-and-gun-violence)
-[DoSomething.Org](https://www.dosomething.org/us/articles/black-lives-taken)
-[Association of American Medical Colleges](https://www.aamc.org/news-insights/crossroads-addressing-gun-violence-public-health-crisis)
-[Texas Tribune](https://www.texastribune.org/2022/05/25/uvalde-school-shooting-victims/)
-[Why.org: Tree of Life Synagogue Picture](https://whyy.org/wp-content/uploads/2018/10/AP_18304187849966.jpg)
-[TheConversation.com: School Children Picture](https://theconversation.com/5-reasons-its-safe-for-kids-to-go-back-to-school-137064)
+-[Center for Disease Control and Prevention: Underlying Cause of Death](https://wonder.cdc.gov/controller/saved/D76/D262F294)
+-[Center for Disease Control and Prevention: Provisional Mortality Statistics](https://wonder.cdc.gov/controller/saved/D176/D298F965)
+-[Everytown Research Organization](https://everytownresearch.org/report/gun-violence-in-america/)
+-[Brady United](https://www.bradyunited.org/fact-sheets/hate-crimes-and-gun-violence)
+-[DoSomething.Org](https://www.dosomething.org/us/articles/black-lives-taken)
+-[Association of American Medical Colleges](https://www.aamc.org/news-insights/crossroads-addressing-gun-violence-public-health-crisis)
+-[Texas Tribune](https://www.texastribune.org/2022/05/25/uvalde-school-shooting-victims/)
+-[Why.org: Tree of Life Synagogue Picture](https://whyy.org/wp-content/uploads/2018/10/AP_18304187849966.jpg)
+-[TheConversation.com: School Children Picture](https://theconversation.com/5-reasons-its-safe-for-kids-to-go-back-to-school-137064)
 
 ## Final Presentation/Deliverable
 <script src="https://carnegiemellon.shorthandstories.com/the-answer/embed.js"></script>
